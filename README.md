@@ -13,9 +13,9 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; C | Java
-- 🌐 &nbsp; Android | React Native | HTML | CSS | JavaScript | Bootstrap 
+- 🌐 &nbsp; React Native | HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | Visual Studio Code | IntelliJ IDEA | Git
+- 🔧 &nbsp; Android Studio | Visual Studio Code | IntelliJ IDEA | Git | NeoVim
 - 🖥 &nbsp; Adobe Audition | Adobe Premiere
 
 <br>
