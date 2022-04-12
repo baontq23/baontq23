@@ -5,7 +5,6 @@
 
 - 🔭 &nbsp; I’m currently learning React Native Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Study at FPT Polytechnic.
 - 💼 &nbsp; Android developer.
 - ✍️ &nbsp; My hobby is playing the piano.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
