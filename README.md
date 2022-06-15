@@ -13,8 +13,8 @@
 
 - 💻 &nbsp; C | Java
 - 🌐 &nbsp; React Native | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | Visual Studio Code | IntelliJ IDEA | Git | NeoVim
+- 🛢 &nbsp; MySQL
+- 🔧 &nbsp; Android Studio | Visual Studio Code | Git | NeoVim
 - 🖥 &nbsp; Adobe Audition | Adobe Premiere
 
 <br>
