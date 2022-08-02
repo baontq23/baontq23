@@ -3,19 +3,15 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning React Native Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Android developer.
 - ✍️ &nbsp; My hobby is playing the piano.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C | Java
-- 🌐 &nbsp; React Native | HTML | CSS | JavaScript | Bootstrap 
+- 💻 &nbsp; C | Java | Javascript | Typescript
+- 🌐 &nbsp; React Native | Express.js | Android Native
 - 🛢 &nbsp; MySQL
-- 🔧 &nbsp; Android Studio | Visual Studio Code | Git | NeoVim
-- 🖥 &nbsp; Adobe Audition | Adobe Premiere
 
 <br>
 
