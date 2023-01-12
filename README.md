@@ -15,12 +15,13 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=baontq23&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Bao Nguyen Github Stats">
+[![Bao's GitHub stats-Dark](https://github-readme-stats-nxa6fr5iq-aashutoshrathi.vercel.app/api?username=baontq23&show_icons=true&theme=dark&count_private=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Bao's GitHub stats-Light](https://github-readme-stats-nxa6fr5iq-aashutoshrathi.vercel.app/api?username=baontq23&show_icons=true&theme=default&count_private=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 </br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baontq23&layout=compact&text_color=daf7dc&bg_color=151515)
-
+[![Top Langs Dark](https://github-readme-stats-nxa6fr5iq-aashutoshrathi.vercel.app/api/top-langs/?username=baontq23&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs Light](https://github-readme-stats-nxa6fr5iq-aashutoshrathi.vercel.app/api/top-langs/?username=baontq23&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
