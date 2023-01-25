@@ -10,7 +10,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; C | Java | Javascript | Typescript
-- 🌐 &nbsp; React Native | NodeJS | Android Native | WebSocket | Computer vision
+- 🌐 &nbsp; React Native | NodeJS | Android Native | WebSocket
 - 🛢 &nbsp; MySQL
 
 <br>
