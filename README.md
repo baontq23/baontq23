@@ -4,13 +4,11 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- ✍️ &nbsp; My hobby is playing the piano.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; C | Java | Javascript | Typescript
-- 🌐 &nbsp; React Native | NodeJS | Android Native | WebSocket
+- 🌐 &nbsp; Mobile - Backend Developer
 - 🛢 &nbsp; MySQL
 
 <br>
