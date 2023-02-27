@@ -16,10 +16,10 @@
 [![Bao's GitHub stats-Dark](https://github-readme-stats-nxa6fr5iq-aashutoshrathi.vercel.app/api?username=baontq23&show_icons=true&theme=dracula&count_private=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Bao's GitHub stats-Light](https://github-readme-stats-nxa6fr5iq-aashutoshrathi.vercel.app/api?username=baontq23&show_icons=true&theme=default&count_private=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-</br>
+<!-- </br>
 
 [![Top Langs Dark](https://github-readme-stats-nxa6fr5iq-aashutoshrathi.vercel.app/api/top-langs/?username=baontq23&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs Light](https://github-readme-stats-nxa6fr5iq-aashutoshrathi.vercel.app/api/top-langs/?username=baontq23&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs Light](https://github-readme-stats-nxa6fr5iq-aashutoshrathi.vercel.app/api/top-langs/?username=baontq23&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) -->
 
 <h3> 🤝🏻 Connect with Me </h3>
 
